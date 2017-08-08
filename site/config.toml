@@ -1,3 +1,6 @@
-baseurl = "/"
-languageCode = "en-us"
-title = "Homepage"
+baseurl = "https://www.chirockey.com"
+languageCode = "ja"
+title = "Chirockey Land"
+
+[params]
+dateformat = "2006年1月2日"
